@@ -103,10 +103,10 @@ Contributions are welcome! If you find any issues or improvements, feel free to 
 
 ## 🧑‍💻 Author
 
-- **Your Name** – [GitHub](https://github.com/mkador) | [LinkedIn](https://www.linkedin.com/in/md-musa-kalimulla169/)
+- **Your Name Md. Musa Kalimulla**
+   
+– [GitHub](https://github.com/mkador) | [LinkedIn](https://www.linkedin.com/in/md-musa-kalimulla169/)
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License. See `LICENSE` file for more info.
